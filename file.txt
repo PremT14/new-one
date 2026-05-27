@@ -1,3 +1,4 @@
 this is a test file for git 
+git checkout bug-fix
 
 add more content 

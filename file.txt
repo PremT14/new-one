@@ -2,3 +2,6 @@ this is a test file for git
 git checkout bug-fix
 
 add more content 
+
+
+new file is updated in new branch
